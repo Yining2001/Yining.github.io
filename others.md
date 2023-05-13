@@ -24,7 +24,7 @@ But for me the following proposition seems more important.
 As a corollary we can say **words are the boundary of thoughts**. I think the history of higher categories and higher stacks has proven this proposition true. It also motivates us to think about mathematics and put some really complicated concepts in words.
 
 ### Nietzsche
-We can also consider how etymology can be applied to mathematics which I learn from Nietzsche.
+We can also consider how etymology can be applied to mathematics which I learn from Nietzsche. In his book *On the Genealogy of Morality* Nietzsche analyzes words 'good' and 'bad'
 
 ### Spengler
 Another inspiring philosophy I think is due to Spengler in his book *Der Untergang des Abendlandes* (*The Decline of the West*) in which he talks about civilizations and thinks they are akin to biological entities, each with a limited, predictable, and deterministic lifespan but here we are interested in mathematics.
