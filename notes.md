@@ -7,7 +7,7 @@ title: Notes
 ### The Geometry of Triangles
 2022-05
 
-In this article we make the concept of a continuous family of triangles precise and prove the moduli functor classifying oriented triangles admits a fine moduli space but the functor classifying non-oriented triangles only admits a coarse moduli space. We hope moduli spaces of triangles can help understand stacks. [Download notes here](https://yining2001.github.io/file/2022-05-notes-2pdf)
+In this article we make the concept of a continuous family of triangles precise and prove the moduli functor classifying oriented triangles admits a fine moduli space but the functor classifying non-oriented triangles only admits a coarse moduli space. We hope moduli spaces of triangles can help understand stacks. [Download notes here](https://yining2001.github.io/file/2022-05-notes-2.pdf)
 
 ### Homotopical Algebra and Derived Categories
 2022-05, a student project in Shandong University
