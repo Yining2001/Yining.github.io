@@ -22,3 +22,4 @@ But for me the following proposition seems more important.
 As a corollary we can say **words are the boundary of thoughts**. I think the history of higher categories and higher stacks has proven this proposition true. It also motivates us to think about mathematics and put some really complicated concepts in words.
 
 ### Spengler
+Another inspiring philosophy I think is due to Spengler in his book *Der Untergang des Abendlandes* in which he talks about civilizations but we are interested in mathematics.
