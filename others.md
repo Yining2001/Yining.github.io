@@ -5,6 +5,7 @@ title: Others
 ---
 
 ## About Philosophy
+### Wittgenstein
 My favourite philosopher is Wittgenstein. His book *Tractatus Logico-Philosophicus* is really worth reading! In the book, he says 
 > - 1.1: The world is the totality of facts, not of things.
 > - 2: What is the case -- a fact -- is the existence of states of affairs.
@@ -19,3 +20,5 @@ But for me the following proposition seems more important.
 > 4.116: Everything that can be thought at all can be thought clearly. Everything that can be put into words can be put clearly.
 
 As a corollary we can say **words are the boundary of thoughts**. I think the history of higher categories and higher stacks has proven this proposition true. It also motivates us to think about mathematics and put some really complicated concepts in words.
+
+### Spengler
