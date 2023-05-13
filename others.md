@@ -36,6 +36,7 @@ Now how can we do etymological analysis in mathematics? For example here we try 
 There is another example 'homology'. '-logy' originates from ancient Grace which just means 'class'. Hence 'homology' should mean 'similar or corresponding in some way'. In addition, this word is not unique to mathematics and it first appeared in biology in which it means similarity of the structure, physiology, or development of different species of organisms based upon their descent from a common evolutionary ancestor. A common example of homologous structures is the forelimbs of vertebrates, where the wings of bats and birds, the arms of primates, the front flippers of whales and the forelegs of four-legged vertebrates like dogs and crocodiles are all derived from the same ancestral tetrapod structure.
 
 Now we all know in mathematics 'homology' is an abelian group but this was discovered by Noether in 1925. Before this it's used to describe some conditions in the path integeral.
+![](/assets/img/philly-magic-garden.jpg "Rotman")
 
 ### Spengler
 Another inspiring philosophy I think is due to Spengler in his book *Der Untergang des Abendlandes* (*The Decline of the West*) in which he talks about civilizations and thinks they are akin to biological entities, each with a limited, predictable, and deterministic lifespan but here we are interested in mathematics.
