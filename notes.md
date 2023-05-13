@@ -20,6 +20,6 @@ This notes is about homotopy theory of topological spaces and the localization o
 The course is mainly about Galois theory and topics covered contain finite Galois extensions, compass and straightedge construction, solvability of algebraic equations, infinite Galois theory, Galois cohomology, Kummer theory and so on. During the course, I helped Prof. Hu type the lecture notes. [Download notes here](https://yining2001.github.io/file/2022-01-notes-1.pdf)
 
 ### A Short Intrduction to Representable Functors
-2021-04
+2021-04, a presentation in the course of elementary algebraic geometry
 
-It's the draft of my presentation in the course of elementary algebraic geometry where we give a short introduction to representable functors. It originates in the problem how to make the category of varieties with regular maps unique. When embedded into a bigger category, the only possible way to make varieties form a category is to choose regular maps. This bigger category is the category of presheaves. [Download notes here](https://yining2001.github.io/file/2021-04-notes-1.pdf)
+We give a short introduction to representable functors which originate in the problem how to make the category of varieties with regular maps unique. When embedded into a bigger category, the only possible way to make varieties form a category is to choose regular maps. This bigger category is the category of presheaves. [Download notes here](https://yining2001.github.io/file/2021-04-notes-1.pdf)
