@@ -37,10 +37,7 @@ I previously enjoyed long-distance running, [vlog making](https://space.bilibili
 
 This is my love. Her name is Qbo (Q宝).
 
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
+
 
 ## Chat with me
 
