@@ -4,7 +4,7 @@ layout: page
 
 ## Welcome to my homepage!
 
-You can also find some information in my [Zhihu page](https://www.zhihu.com/people/ruo-ru-12-16) (a Chinese cummunity) where I write some posts about mathematics. But note that it's in Chinese.
+My name is Yining Chen currently a M1 student of mathematics in Toulouse. You can also find some information in my [Zhihu page](https://www.zhihu.com/people/ruo-ru-12-16) (a Chinese cummunity) where I write some posts about mathematics. But note that it's in Chinese.
 
 ## Education
 
