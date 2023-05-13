@@ -7,9 +7,7 @@ title: Others
 ## About Philosophy
 My favourite philosopher is Wittgenstein. His book *Tractatus Logico-Philosophicus* is really worth reading! In the book, he says 
 > 1.1: The world is the totality of facts, not of things.
-
 > 2: What is the case -- a fact -- is the existence of states of affairs.
-
 > 2.01: A state of affairs (a state of things) is a combibnation of objects (things).
 
 
