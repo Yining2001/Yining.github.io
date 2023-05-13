@@ -4,6 +4,11 @@ permalink: /notes/index.html
 title: Notes
 ---
 
+### Topics in Deformation Theory
+2022-06
+
+It's an article about deformation theory where we talk about the deformation theory for Hilbert schemes, formal geometry, cotangent complexes and differential graded Lie algebras (dgLa). But note that it's written in Chinese! [Download notes here](https://yining2001.github.io/file/2022-06-notes-1.pdf)
+
 ### The Geometry of Triangles
 2022-05
 
