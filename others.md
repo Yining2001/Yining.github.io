@@ -37,6 +37,7 @@ There is another example 'homology'. '-logy' originates from ancient Grace which
 
 Now we all know in mathematics 'homology' is an abelian group but this was discovered by Noether in 1925. Before this it's used to describe some conditions in the path integeral.
 ![Rotman](images/rotman.jpg "Rotman")
+For example given two points in a space, we have two paths connecting the two points. For integerable funtions P and Q, we consider the differential form Pdx+Qdy. If its integral along the two paths are equal, then they are homologous.
 
 ### Spengler
 Another inspiring philosophy I think is due to Spengler in his book *Der Untergang des Abendlandes* (*The Decline of the West*) in which he talks about civilizations and thinks they are akin to biological entities, each with a limited, predictable, and deterministic lifespan but here we are interested in mathematics.
