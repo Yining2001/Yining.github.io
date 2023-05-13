@@ -34,10 +34,10 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Projects
-    url: /projects/
+  - title: Papers
+    url: /papers/
+  - title: Notes
+    url: /notes/
   - title: Awards
     url: /awards/
   - title: Seminars
