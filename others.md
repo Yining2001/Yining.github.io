@@ -31,7 +31,7 @@ On the other hand in the next section, he connects the Germann word '*gut*' (goo
 
 There is another example due to Jean-Paul Sartre. In his book *L'Être et le Néant* (*Being and Nothingness*) he tells us the word 'person' originates from the Latin word 'persona' which means masks worn by actors on the stage. Therefore he thinks this can show that people are originally divorced from themselves. Your real life is the same as an actor acting in a play. The masked you is different from the real you, but you take the masked you as real because you are good at seeing yourself through the eyes of others.
 
-Now how can we do etymological analysis in mathematics?
+Now how can we do etymological analysis in mathematics? For example here we try to understand the mathematical concept 'homomorphism'. We have 'homo→homos (Latin) → same (English)' and 'morphism → morphine (Latin) → form (English)'
 
 ### Spengler
 Another inspiring philosophy I think is due to Spengler in his book *Der Untergang des Abendlandes* (*The Decline of the West*) in which he talks about civilizations and thinks they are akin to biological entities, each with a limited, predictable, and deterministic lifespan but here we are interested in mathematics.
