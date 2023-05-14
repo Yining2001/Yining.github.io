@@ -52,7 +52,9 @@ Another inspiring philosophy I think is due to Spengler in his book *Der Unterga
 <br>
 Looking at the photo of Shiing-Shen Chern, in China we believe those who have big ears that are higher than the eyebrows will have great achievements.
 
+The philosophy of comparative cultural morpholog is that as a living existence, conscious life always expresses itself and culture is the container of life expression. The essence and destiny of each culture are closely related to the activities of life living in that culture. Life presents itself as various symbols, so different parts of the same cultural whole, such as literature and mathematics, will have morphological relationships, or similarities. As a kind of collective life, culture itself has cyclical characteristics. Although different cultures are different life forms, just as the age stratification of different people is roughly the same, the life cycle of different cultures is similar. So cultures in the same life cycle will show similarities.
 
+If we limit our attention to the field of mathematics, then according to this point of view, the field of mathematics will actually show 'characteristics of life'. Different concepts or areas born from the same womb have similarities in morphology, and their historical development trajectories and goals have similar characteristics. The most typical examples are 'homology' and 'homotopy', both come from the investigation of the nature of space itself.
 
 
 
