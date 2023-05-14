@@ -47,7 +47,7 @@ As we have talked before that in biology 'homology' means similarity of the stru
 ### Spengler
 Another inspiring philosophy I think is due to Spengler in his book *Der Untergang des Abendlandes* (*The Decline of the West*) where he talks about civilizations and thinks they are akin to biological entities, each with a limited, predictable, and deterministic lifespan. When Toynbee studies different civilizations in *A Study of History*, the philosophy of history he uses is also physiognomy. This kind of physiognomy is called 'comparative cultural morpholog' as well. It studies history and culture from the perspective of morphology. Actually in ancient China there is also a subject of physiognomy. At that time, experienced people could judge a person's information such as his future status, etc just based on his appearance. 
 <center>
-<img src="/images/rotman.jpg">
+<img src="/images/Chern.jpg">
 </center>
 <br>
 Looking at the photo of Shiing-Shen Chern, in China we believe those who have big ears that are higher than the eyebrows will have great achievements.
