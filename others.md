@@ -37,7 +37,7 @@ There is another example 'homology'. '-logy' originates from ancient Grace which
 
 Now we all know in mathematics 'homology' is an abelian group but this was discovered by Noether in 1925. Before this it's used to describe some conditions in the path integeral.
 <center>
-<img src="/images/rotman.jpg">
+<img src="/images/rotman.jpg" width=500 height=300>
 </center>
 <br>
 For example given two points in a space, we have two paths connecting them. For integerable funtions P and Q, we consider the differential form Pdx+Qdy. If its integral along the two paths are equal, then these paths are homologous. In this early history, Riemann did a lot of works. You can find details in Weibel's survey [A History of Homological Algebra](http://www.math.rutgers.edu/~weibel/HA-history.pdf).
@@ -47,7 +47,7 @@ As we have talked before that in biology 'homology' means similarity of the stru
 ### Spengler
 Another inspiring philosophy I think is due to Spengler in his book *Der Untergang des Abendlandes* (*The Decline of the West*) where he talks about civilizations and thinks they are akin to biological entities, each with a limited, predictable, and deterministic lifespan. When Toynbee studies different civilizations in *A Study of History*, the philosophy of history he uses is also physiognomy. This kind of physiognomy is called 'comparative cultural morpholog' as well. It studies history and culture from the perspective of morphology. Actually in ancient China there is also a subject of physiognomy. At that time, experienced people could judge a person's information such as his future status, etc just based on his appearance. 
 <center>
-<img src="/images/chern.jpg" width=600 height=300>
+<img src="/images/chern.jpg" width=400 height=300>
 </center>
 <br>
 Looking at the photo of Shiing-Shen Chern, in China we believe those who have big ears that are higher than the eyebrows will have great achievements.
