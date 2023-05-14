@@ -42,8 +42,12 @@ Now we all know in mathematics 'homology' is an abelian group but this was disco
 <br>
 For example given two points in a space, we have two paths connecting them. For integerable funtions P and Q, we consider the differential form Pdx+Qdy. If its integral along the two paths are equal, then these paths are homologous. In this early history, Riemann did a lot of works. You can find details in Weibel's survey [A History of Homological Algebra](http://www.math.rutgers.edu/~weibel/HA-history.pdf).
 
-As we have talked before that in biology 'homology' means similarity of the structure, physiology, or development of different species of organisms based upon their descent from a common evolutionary ancestor. Different (co)homology theories may have the same ancestor. From Grothendieck's axiomation in Tohoku, we know how we can obtain a (sheaf) cohomology theory in a really general context which is also valid in a topos. Moreover nearly all cohomology theories such as de Rham cohomology and singular (co)homology can be represented by the sheaf cohomology. In arithmetic geometry there are also many (co)homology theories with deep connections. So what's the ancestor of them? I this it's an interesting problem.
-
+As we have talked before that in biology 'homology' means similarity of the structure, physiology, or development of different species of organisms based upon their descent from a common evolutionary ancestor. Different (co)homology theories may have the same ancestor. From Grothendieck's axiomation in Tohoku, we know how we can obtain a (sheaf) cohomology theory in a really general context which is also valid in a topos. Moreover nearly all cohomology theories such as de Rham cohomology and singular (co)homology can be represented by the sheaf cohomology. In arithmetic geometry there are also many (co)homology theories with deep connections. So what's the ancestor of them? I think it's an interesting problem.
 
 ### Spengler
-Another inspiring philosophy I think is due to Spengler in his book *Der Untergang des Abendlandes* (*The Decline of the West*) in which he talks about civilizations and thinks they are akin to biological entities, each with a limited, predictable, and deterministic lifespan but here we are interested in mathematics.
+Another inspiring philosophy I think is due to Spengler in his book *Der Untergang des Abendlandes* (*The Decline of the West*) in which he talks about civilizations and thinks they are akin to biological entities, each with a limited, predictable, and deterministic lifespan. When Toynbee studied different civilizations in *A Study of History*, the philosophy of history he used was also physiognomy. This kind of physiognomy is also called 'comparative cultural morpholog'. It studies history and culture from the perspective of morphology. In ancient China there is a subject of physiognomy. At that time, experienced people could judge a person's information such as his future status, etc based on his appearance.
+
+
+
+
+
