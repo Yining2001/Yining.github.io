@@ -3,9 +3,14 @@ layout: page
 permalink: /others/index.html
 title: Others
 ---
+<center>
+<img src="/images/home.png" width=500 height=300>
+</center>
+<br>
+The photo is taken in my hometown.The strongest romance for Chinese is homesickness.
 
 ## About Philosophy
-I just talk about my mathematical philosophy thinkings. Actually many of them can be found in my [Zhihu page](https://www.zhihu.com/people/ruo-ru-12-16) in Chinese.
+In this page I just want to talk about my mathematical philosophy thinkings. Actually many of them can be found in my [Zhihu page](https://www.zhihu.com/people/ruo-ru-12-16) in Chinese.
 
 ### Wittgenstein
 My favourite philosopher is Wittgenstein. His book *Tractatus Logico-Philosophicus* is really worth reading! In the book, he says 
