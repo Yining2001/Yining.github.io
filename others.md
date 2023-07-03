@@ -3,11 +3,6 @@ layout: page
 permalink: /others/index.html
 title: Others
 ---
-<center>
-<img src="/images/home.png" width=500 height=300>
-</center>
-<br>
-This photo is taken in my hometown.The strongest romance for Chinese is homesickness.
 
 ## About Philosophy
 In this page I just want to talk about my mathematical philosophy thinkings. Actually many of them can be found in my [Zhihu page](https://www.zhihu.com/people/ruo-ru-12-16) in Chinese.
