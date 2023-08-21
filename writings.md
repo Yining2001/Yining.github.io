@@ -3,6 +3,10 @@ layout: page
 permalink: /writings/index.html
 title: Writings
 ---
+## Thesis
+
+****
+## Notes
 
 ### Topics in Deformation Theory
 2022-06
