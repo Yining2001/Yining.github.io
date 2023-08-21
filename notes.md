@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /notes/index.html
-title: Notes
+permalink: /writings/index.html
+title: Writings
 ---
 
 ### Topics in Deformation Theory
