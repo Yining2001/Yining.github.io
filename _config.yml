@@ -33,7 +33,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # For external links add external: true
 links:
   - title: About Me
-    url: /
+    url: https://yining2001.github.io/
   - title: Research
     url: /research/
   - title: Writings
