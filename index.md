@@ -15,4 +15,4 @@ My email: yining_chen@uni-bonn.de
 * I will start my master study in University of Bonn this winter 2023.
 
 ## Interests
-I'm interested in derived algebraic geometry and especially its interactions with other fields.
+I'm interested in derived algebraic geometry and especially interactions with other fields.
