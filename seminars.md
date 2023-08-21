@@ -9,7 +9,7 @@ title: Seminars
 
 [Program 5th information](https://www.kurims.kyoto-u.ac.jp/~yuyang/confer/Program5th.pdf)
 
-### [Summer School on Algebraic Geometry in Fudan University](https://scms.fudan.edu.cn/info/1059/5677.htm)
+### [International Summer School of Algebraic Geometry, Fudan University](https://scms.fudan.edu.cn/info/1059/5677.htm)
 2023-07, Shanghai
 
-This summer school is mainly about moduli spaces whose topics covered contain algebraic K-stability, moduli spaces on derived categories and the conjecture of P=W.
+This summer school is mainly about moduli spaces whose topics covered contain algebraic K-stability, moduli spaces on derived categories and the conjecture of P=W. [Lecture video](https://scms.fudan.edu.cn/info/4503/5820.htm)
